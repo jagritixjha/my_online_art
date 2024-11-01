@@ -221,7 +221,7 @@ class Section2 extends StatelessWidget {
               children: [
                 Icon(
                   icon,
-                  color: Colors.blue.shade700,
+                  color: primaryColor,
                   size: 36,
                 ),
                 const SizedBox(height: 10),
